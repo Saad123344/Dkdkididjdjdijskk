@@ -7,10 +7,9 @@ commands = '''
 '''
 soursce = '''
 `- -- -- -- -- -- -- -- --`
-**Sedthon source is working ⚡
-Dev : 𝙩𝙤𝙥𝙖𝙘
-Dev : @S_Y_V
-Source Ch : @N1111V**
+**westrthon source is working ⚡
+Dev : @h1111e
+Source Ch : @westrthon**
 `-- -- -- -- -- -- -- -- --`
 '''
 trans = '''
@@ -126,7 +125,7 @@ tele_checker2 = '''
 5 : خماسي حرفين
 6 : خماسي حرف
 7 : سباعي حرف
-مثال : .كلايم 500 4 AAAAA
+مثال : .أبحث 500 4 @westrthon
 '''
 t06bot = '''
 `-- -- -- -- -- -- -- -- --`**
