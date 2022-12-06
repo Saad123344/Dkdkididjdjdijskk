@@ -7,34 +7,29 @@
   "stack": "container",
     "env": {
         "APP_ID": {
-            "description": "ضع هنا الايبي ايدي الخاص بك",
-            "required": true,
-            "value":""
-        },
-        "API_HASH": {
-            "description": "ضع هنا الايبي هاش الخاص بك",
-            "required": true,
-            "value":""
-        },
-        "STRING_SESSION": {
-            "description": "هنا ضع كود سيشن بايروجرام او سيشن تيليثون",
+            "description": "ايبي ايدي",
+            "value": "",
             "required": true
         },
-        "TG_BOT_TOKEN": {
-            "description": "ضع توكن البوت المساعد الخاص بك",
-            "required": true,
-            "value":""
+        "APP_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
         },
-        "TZ": {
-            "description": "ضع هنا المنطقة الزمنيه الخاصه بك القارة وعاصمه بلدك",
-            "required": true,
-            "value": "Asia/Baghdad"
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
         },
-        "ENV": {
-            "description": "لا تغيره نهائيا!",
-            "required": true,
-            "value": "ANYTHING"
+        "TOKEN": {
+            "description": "توكن االبوت",
+            "value": "",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "",
+            "required": true
         }
-
     }
-  }
+}
