@@ -2,8 +2,8 @@
     "name": "westrthon - سورس جمثون",
     "description": "تنصيب سورس جمثون مجانا على منصة سكالينجو",
     "addons": ["scalingo-postgresql"],
-    "keywords": ["jmthon", "userbot","scalingo"],
-    "repository": "https://github.com/thejmthon/sbb_b0",
+    "keywords": ["westrthon", "userbot","scalingo"],
+    "repository": "https://github.com/Saad123344/Dkdkididjdjdijskk",
   "stack": "container",
     "env": {
         "APP_ID": {
