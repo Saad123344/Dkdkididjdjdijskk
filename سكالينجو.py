@@ -1,5 +1,5 @@
 {
-    "name": "westrthon - سورس جمثون",
+    "name": "westrthon - سورس ويستر",
     "description": "تنصيب سورس جمثون مجانا على منصة سكالينجو",
     "addons": ["scalingo-postgresql"],
     "keywords": ["westrthon", "userbot","scalingo"],
